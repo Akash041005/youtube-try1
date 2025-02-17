@@ -27,4 +27,11 @@ html, body {
 iframe {
   width: 70%;
   height: 70%;
+}
+
+@media (max-width: 600px) {
+  iframe {
+    width: 90%;
+    height: 12rem;
+  }
 }/*# sourceMappingURL=style1.css.map */
